@@ -19,7 +19,7 @@ This is a collection of resources related with novel neural networks.
 ## Survey papers
 
 1. **A Comprehensive Survey on Graph Neural Networks.** *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu.* 2019 [paper](https://arxiv.org/pdf/1901.00596.pdf)
-1. **Graph Neural Networks in Computer Vision - Architectures, Datasets and Common Approaches** * Maciej Krzywda, Łukasik Szymon, Amir H. Gandomi* 2021 [paper](https://ieeexplore.ieee.org/abstract/document/9892658)
+1. **Graph Neural Networks in Computer Vision - Architectures, Datasets and Common Approaches** * Maciej Krzywda, Łukasik Szymon, Amir H. Gandomi* 2022 [paper](https://ieeexplore.ieee.org/abstract/document/9892658)
 <a name="papers" />
 
 ## Papers
